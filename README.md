@@ -1,4 +1,4 @@
-# poisednotesapp
+# PoisedNotes App
 PoisedNotes App - Local-first text editor
 
 ## Download Latest Release:
