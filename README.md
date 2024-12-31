@@ -8,10 +8,17 @@ https://github.com/PoisedNotesApp/app/releases/tag/v2024.12.30
 https://github.com/PoisedNotesApp/poisednotesapp/releases
 
 
+## Full Desktop App, Blazing fast, Own the app forever, no subscription required
+Automatic saving, no fishing for files on the file system
+
+<img width="1215" alt="image" src="https://github.com/user-attachments/assets/4b53736d-7df6-457b-a2e8-e4ad64f9aebd" />
+
+
 Offline (Local first) is default behaviour. Own the app forever, it will never stop working.
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/9f61a375-c9c4-443f-9237-8e411a937bda" />
 
 Online defaults to a hybrid method where it is both Local and Online - file is synced automatically in both locations.
+
 Blazing fast speeds, auto synch, auto conflict detection, simple conflict resolution process.
 ![image](https://github.com/user-attachments/assets/6dadc42d-8cac-4783-8f98-9d5e4bbc59fb)
 
