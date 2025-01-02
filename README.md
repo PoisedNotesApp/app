@@ -2,7 +2,7 @@
 PoisedNotes App - Local-first text editor
 
 ## Download Latest Release:
-https://github.com/PoisedNotesApp/app/releases/tag/v2024.12.30
+https://github.com/PoisedNotesApp/app/releases/tag/v2025.01.01
 
 ## Looking for older releases? Previous Releases are here:
 https://github.com/PoisedNotesApp/poisednotesapp/releases
@@ -11,7 +11,14 @@ https://github.com/PoisedNotesApp/poisednotesapp/releases
 ## Full Desktop App, Blazing fast, Own the app forever, no subscription required
 Automatic saving, no fishing for files on the file system
 
-<img width="1215" alt="image" src="https://github.com/user-attachments/assets/4b53736d-7df6-457b-a2e8-e4ad64f9aebd" />
+![image](https://github.com/user-attachments/assets/95e5acbd-b2a4-424c-a1bc-7fad2e5a7e75)
+
+
+Ultra Fast collab via websockets - share files and collaborate with friends or accross your devices.
+
+
+https://github.com/user-attachments/assets/eb64c50e-c050-4d90-a58c-982f77310387
+
 
 
 Offline (Local first) is default behaviour. Own the app forever, it will never stop working.
