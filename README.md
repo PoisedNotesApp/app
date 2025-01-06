@@ -24,7 +24,8 @@ https://github.com/user-attachments/assets/eb64c50e-c050-4d90-a58c-982f77310387
 
 
 
-Offline (Local first) is default behaviour. Own the app forever, it will never stop working.
+Offline (Local first) is default behaviour. Own the app forever, no subscriptions means you own it and it will continue working.
+Does NOT connect to any server unless you explicitely turn on online sync.
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/9f61a375-c9c4-443f-9237-8e411a937bda" />
 
 Online defaults to a hybrid method where it is both Local and Online - file is synced automatically in both locations.
