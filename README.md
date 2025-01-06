@@ -2,7 +2,7 @@
 PoisedNotes App - Local-first text editor
 
 ## Download Latest Release:
-https://github.com/PoisedNotesApp/app/releases/tag/v2025.01.05
+https://github.com/PoisedNotesApp/app/releases/tag/v2025.01.06
 
 ## Looking for older releases? Previous Releases are here:
 https://github.com/PoisedNotesApp/poisednotesapp/releases
@@ -11,7 +11,7 @@ https://github.com/PoisedNotesApp/poisednotesapp/releases
 ## Full Desktop App, Blazing fast, Own the app forever, no subscription required
 Automatic saving, no fishing for files on the file system
 
-![image](https://github.com/user-attachments/assets/95e5acbd-b2a4-424c-a1bc-7fad2e5a7e75)
+![image](https://github.com/user-attachments/assets/f7e003fe-6947-4b23-af62-9a2dfe3b924e)
 
 Full Desktop support with user controlled dark mode/light mode
 <img width="1189" alt="image" src="https://github.com/user-attachments/assets/32b07548-5cc6-4525-8ddf-b991d57c9ed0" />
