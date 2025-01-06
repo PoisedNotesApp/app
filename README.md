@@ -13,6 +13,9 @@ Automatic saving, no fishing for files on the file system
 
 ![image](https://github.com/user-attachments/assets/95e5acbd-b2a4-424c-a1bc-7fad2e5a7e75)
 
+Full Desktop support with user controlled dark mode/light mode
+<img width="1189" alt="image" src="https://github.com/user-attachments/assets/32b07548-5cc6-4525-8ddf-b991d57c9ed0" />
+
 
 Ultra Fast collab via websockets - share files and collaborate with friends or accross your devices.
 
@@ -32,8 +35,6 @@ Blazing fast speeds, auto synch, auto conflict detection, simple conflict resolu
 Mobile and small screen friendly
 <img width="1019" alt="image" src="https://github.com/user-attachments/assets/9d16a09d-5499-48f8-8f3d-aba22a2bdcdc" />
 
-Full Desktop support with user controlled dark mode/light mode
-<img width="1189" alt="image" src="https://github.com/user-attachments/assets/32b07548-5cc6-4525-8ddf-b991d57c9ed0" />
 
 
 
