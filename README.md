@@ -11,16 +11,20 @@ https://github.com/PoisedNotesApp/poisednotesapp/releases
 ## Full Desktop App, Blazing fast, Own the app forever, no subscription required
 Automatic saving, no fishing for files on the file system
 
-![image](https://github.com/user-attachments/assets/f7e003fe-6947-4b23-af62-9a2dfe3b924e)
+![image](https://github.com/user-attachments/assets/e07b67b4-bc16-4be2-8682-9b42ca9475f2)
 
 Full Desktop support with user controlled dark mode/light mode
-<img width="1189" alt="image" src="https://github.com/user-attachments/assets/32b07548-5cc6-4525-8ddf-b991d57c9ed0" />
+![image](https://github.com/user-attachments/assets/6de6ff51-e7e1-416f-976e-d61783f4bd1c)
+
+Support for large screens and small screens
+
 
 
 Ultra Fast collab via websockets - share files and collaborate with friends or accross your devices.
 
 
-https://github.com/user-attachments/assets/eb64c50e-c050-4d90-a58c-982f77310387
+![image](https://github.com/user-attachments/assets/c1f83be3-3903-4a49-9a67-12918b3d91c5)
+
 
 
 
