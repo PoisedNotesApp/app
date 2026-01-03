@@ -2,7 +2,7 @@
 PoisedNotes App - Local-first text editor
 
 ## Download Latest Release:
-https://github.com/PoisedNotesApp/app/releases/tag/v2025.02.20
+https://github.com/PoisedNotesApp/app/releases/tag/v2026.01.02
 
 ## Looking for older releases? Previous Releases are here:
 https://github.com/PoisedNotesApp/poisednotesapp/releases
