@@ -11,6 +11,13 @@ https://github.com/PoisedNotesApp/poisednotesapp/releases
 ## Full Desktop App, Blazing fast, Own the app forever, no subscription required
 Automatic saving, no fishing for files on the file system
 
+Download your copy today
+<img width="715" height="687" alt="image" src="https://github.com/user-attachments/assets/5dd73031-7f49-48ff-8c51-cf1b526c0a4d" />
+
+Start using the fastest, local first, no-subscription / buy-it-for-life text editor
+<img width="976" height="658" alt="image" src="https://github.com/user-attachments/assets/7de6ef07-4ae7-45ce-96e5-4bfdec5e70bb" />
+
+
 ![image](https://github.com/user-attachments/assets/e07b67b4-bc16-4be2-8682-9b42ca9475f2)
 
 Full Desktop support with user controlled dark mode/light mode
