@@ -1,7 +1,7 @@
 # PoisedNotes App
 PoisedNotes App - Local-first text editor
 
-### We have cats. Download and see.
+### Now with cats. Download and see.
 
 ## Download Latest Release:
 https://github.com/PoisedNotesApp/app/releases/tag/v2026.03.01
