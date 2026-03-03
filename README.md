@@ -19,7 +19,7 @@ Download your copy today
 Start using the fastest, local first, no-subscription / buy-it-for-life text editor
 <img width="976" height="658" alt="image" src="https://github.com/user-attachments/assets/7de6ef07-4ae7-45ce-96e5-4bfdec5e70bb" />
 
-Visuals for older release is here for reference. Functionality has remained.
+Visuals for older release is here for reference. Functionality has remained fully backwards compatible.
 ![image](https://github.com/user-attachments/assets/e07b67b4-bc16-4be2-8682-9b42ca9475f2)
 
 Full Desktop support with user controlled dark mode/light mode
